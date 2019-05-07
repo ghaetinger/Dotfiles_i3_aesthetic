@@ -1,0 +1,26 @@
+[Desktop Entry]
+DefaultProfile=Profile 5.profile
+
+[Favorite Profiles]
+Favorites=
+
+[KonsoleWindow]
+ShowAppNameOnTitleBar=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 1080=934
+Height 1440=1360
+Height 2160=1049
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABNgAAAVUAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1808
+Width 2560=1240
+Width 3840=1920
+
+[Profile Shortcuts]
+Ctrl+X, Ctrl+C, Ctrl+C, Ctrl+C=Profile 1.profile
+
+[TabBar]
+TabBarVisibility=ShowTabBarWhenNeeded
